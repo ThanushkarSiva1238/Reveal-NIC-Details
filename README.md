@@ -1,0 +1,1 @@
+In this program, you can get details using your Sri Lankan NIC number, whether it's the old method or the new method. If you are below 18, you can predict your NIC number without the serial number and check the ID.
